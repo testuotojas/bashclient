@@ -1,7 +1,7 @@
 #!/bin/bash
 
 set -xv
-# Set this hostname
+#Set this hostname
 HOSTNAME=`hostname --short`
  
 # Set Graphite host
